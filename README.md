@@ -15,10 +15,7 @@
 
   <h3 align="center">A University Library Management System with Admin Panel</h3>
 
-   <div align="center">
-     Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a> YouTube. Join the JSM family!
-    </div>
-</div>
+  
 
 ## 📋 <a name="table">Table of Contents</a>
 
@@ -32,19 +29,12 @@
 
 ## 🚨 Tutorial
 
-This repository contains the code corresponding to an in-depth tutorial available on our YouTube channel, <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a>. 
-
-If you prefer visual learning, this is the perfect resource for you. Follow our tutorial to learn how to build projects like these step-by-step in a beginner-friendly manner!
-
-<a href="https://youtu.be/EZajJGOMWas" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/1736fca5-a031-4854-8c09-bc110e3bc16d" /></a>
-
 ## <a name="introduction">🤖 Introduction</a>
 
 Built with Next.js, TypeScript, and Postgres, the University Library Management System is a production-grade platform featuring a public-facing app and an admin interface. It offers advanced functionalities like seamless book borrowing with reminders and receipts, robust user management, automated workflows, and a modern, optimized tech stack for real-world scalability.
 
-If you're getting started and need assistance or face any bugs, join our active Discord community with over **50k+** members. It's a place where people help each other out.
 
-<a href="https://discord.com/invite/n6EdbFJ" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/618f4872-1e10-42da-8213-1d69e486d02e" /></a>
+
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
@@ -125,7 +115,7 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/adrianhajdin/university-library-jsm.git
+git clone (https://github.com/RohanDobriyal/Library-Management)
 cd Library-Management
 ```
 
@@ -174,7 +164,8 @@ Sign-Up Page – This is the registration page where new users can sign up for t
 
 Book Booking Section – This section allows users to browse and reserve books. Users can search for books, view their details, and book them for borrowing.
 
-[Screenshot 2025-02-28 131231](https://github.com/user-attachments/assets/5df340f6-b842-4fed-b782-fc40d15aaf60)
+![Screenshot 2025-02-27 213923](https://github.com/user-attachments/assets/0031a557-2f45-480f-9fd3-d4f5dec7601e)
+
 
 
 Admin Panel – The admin dashboard provides functionality to manage books and users. Admins can add new books, delete existing ones, and manage user permissions.
@@ -188,13 +179,13 @@ Books: A list of available books in the system.
 Users: A record of registered users.
 Borrow Records: Details of books borrowed by users, including timestamps.
 
-
 ![image](https://github.com/user-attachments/assets/41cf6089-9489-4765-a01a-547e41a55ce0)
 
 
 User Admin Permissions – A section where an admin can grant administrative permissions to other users, allowing them to manage books and users.
 
 ![image](https://github.com/user-attachments/assets/09670666-cb25-4580-8b8c-8f9d30360e18)
+
 
 Replace the placeholder values with your actual ImageKit, NeonDB, Upstash, and Resend credentials. You can obtain these credentials by signing up on the [ImageKit](https://bit.ly/49zmXkt), [NeonDB](https://fyi.neon.tech/1jsm), [Upstash](https://upstash.com/?utm_source=jsmastery1), and [Resend](https://resend.com/). 
 
