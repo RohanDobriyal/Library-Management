@@ -194,6 +194,7 @@ npm run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) in your browser to view the project.
+
 Deployment on Vercel
 
 The project is hosted on Vercel, allowing for continuous integration and smooth deployment. Key benefits of using Vercel:(https://library-management-ocz3.vercel.app/sign-in)
