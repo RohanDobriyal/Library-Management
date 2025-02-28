@@ -167,8 +167,12 @@ RESEND_TOKEN=
 ![Screenshot 2025-02-28 131231](https://github.com/user-attachments/assets/5df340f6-b842-4fed-b782-fc40d15aaf60)
 
 ```
-![image](https://github.com/user-attachments/assets/41cf6089-9489-4765-a01a-547e41a55ce0)
+[Screenshot 2025-02-28 131231](https://github.com/user-attachments/assets/5df340f6-b842-4fed-b782-fc40d15aaf60)
+ui
+![Screenshot 2025-02-27 213923](https://github.com/user-attachments/assets/f2d41022-1679-4664-a581-895efe9187d9)
 
+![image](https://github.com/user-attachments/assets/41cf6089-9489-4765-a01a-547e41a55ce0)
+backend
 ![image](https://github.com/user-attachments/assets/09670666-cb25-4580-8b8c-8f9d30360e18)
 
 Replace the placeholder values with your actual ImageKit, NeonDB, Upstash, and Resend credentials. You can obtain these credentials by signing up on the [ImageKit](https://bit.ly/49zmXkt), [NeonDB](https://fyi.neon.tech/1jsm), [Upstash](https://upstash.com/?utm_source=jsmastery1), and [Resend](https://resend.com/). 
