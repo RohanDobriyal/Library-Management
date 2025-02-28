@@ -167,14 +167,33 @@ RESEND_TOKEN=
 ![Screenshot 2025-02-28 131231](https://github.com/user-attachments/assets/5df340f6-b842-4fed-b782-fc40d15aaf60)
 
 ```
+Sign-Up Page – This is the registration page where new users can sign up for the library system. It likely includes fields such as name, email, password, and possibly role selection.
+
 ![image](https://github.com/user-attachments/assets/2536ad72-cac4-4318-8d89-fd1bb56a9d06)
+
+
+Book Booking Section – This section allows users to browse and reserve books. Users can search for books, view their details, and book them for borrowing.
 
 [Screenshot 2025-02-28 131231](https://github.com/user-attachments/assets/5df340f6-b842-4fed-b782-fc40d15aaf60)
 
+
+Admin Panel – The admin dashboard provides functionality to manage books and users. Admins can add new books, delete existing ones, and manage user permissions.
+
 ![Screenshot 2025-02-27 213923](https://github.com/user-attachments/assets/f2d41022-1679-4664-a581-895efe9187d9)
 
+
+Drizzle Studio Panel – This panel displays database tables such as:
+
+Books: A list of available books in the system.
+Users: A record of registered users.
+Borrow Records: Details of books borrowed by users, including timestamps.
+
+
 ![image](https://github.com/user-attachments/assets/41cf6089-9489-4765-a01a-547e41a55ce0)
-backend
+
+
+User Admin Permissions – A section where an admin can grant administrative permissions to other users, allowing them to manage books and users.
+
 ![image](https://github.com/user-attachments/assets/09670666-cb25-4580-8b8c-8f9d30360e18)
 
 Replace the placeholder values with your actual ImageKit, NeonDB, Upstash, and Resend credentials. You can obtain these credentials by signing up on the [ImageKit](https://bit.ly/49zmXkt), [NeonDB](https://fyi.neon.tech/1jsm), [Upstash](https://upstash.com/?utm_source=jsmastery1), and [Resend](https://resend.com/). 
